@@ -1,3 +1,5 @@
-Shoreline detection for WebCOOS data
+Machine Learning for shoreline detection with WebCOOS data.
 
-Sana Lnu M.S., Emily Tango M.S., Aysha Zayyad M.S.
+UNCW Researchers: Sana Lnu M.S., Emily Tango M.S., Aysha Zayyad M.S.
+
+Continuation of Jeremy Braun's Thesis 2022.
